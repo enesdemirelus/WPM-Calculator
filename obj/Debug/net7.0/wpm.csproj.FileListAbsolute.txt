@@ -1,0 +1,15 @@
+/Users/enesdemirel/Desktop/wpm/bin/Debug/net7.0/wpm
+/Users/enesdemirel/Desktop/wpm/bin/Debug/net7.0/wpm.deps.json
+/Users/enesdemirel/Desktop/wpm/bin/Debug/net7.0/wpm.runtimeconfig.json
+/Users/enesdemirel/Desktop/wpm/bin/Debug/net7.0/wpm.dll
+/Users/enesdemirel/Desktop/wpm/bin/Debug/net7.0/wpm.pdb
+/Users/enesdemirel/Desktop/wpm/obj/Debug/net7.0/wpm.csproj.AssemblyReference.cache
+/Users/enesdemirel/Desktop/wpm/obj/Debug/net7.0/wpm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesdemirel/Desktop/wpm/obj/Debug/net7.0/wpm.AssemblyInfoInputs.cache
+/Users/enesdemirel/Desktop/wpm/obj/Debug/net7.0/wpm.AssemblyInfo.cs
+/Users/enesdemirel/Desktop/wpm/obj/Debug/net7.0/wpm.csproj.CoreCompileInputs.cache
+/Users/enesdemirel/Desktop/wpm/obj/Debug/net7.0/wpm.dll
+/Users/enesdemirel/Desktop/wpm/obj/Debug/net7.0/refint/wpm.dll
+/Users/enesdemirel/Desktop/wpm/obj/Debug/net7.0/wpm.pdb
+/Users/enesdemirel/Desktop/wpm/obj/Debug/net7.0/wpm.genruntimeconfig.cache
+/Users/enesdemirel/Desktop/wpm/obj/Debug/net7.0/ref/wpm.dll
